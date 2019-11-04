@@ -9,7 +9,7 @@ IBM,
 Microsoft, and
 P&G
 
-Based on: Revenue, EPS, and Dividends.
+Based on: Revenue, EPS, and Dividends
 
 4 different types of regression models: Linear, Log, Exponential and Power
 
