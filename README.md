@@ -1,6 +1,6 @@
 # Multiple Regression Models
 
-Built 2D and 3D Regression models for:
+Regression models for:
 Apple, 
 Facebook, 
 GE, 
@@ -13,3 +13,4 @@ Based on: Revenue, EPS, and Dividends
 
 4 different types of regression models: Linear, Log, Exponential and Power
 
+(Note: Some of the data has been changed as this was mainly an exercise in building models. This is not intended to provide financial advice.)
